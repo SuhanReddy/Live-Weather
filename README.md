@@ -22,9 +22,6 @@ A simple and responsive live weather app that shows current weather, a 5-day for
    git clone [https://github.com/SuhanReddy/Live-Weather.git](https://github.com/SuhanReddy/Live-Weather.git)
 
 
-2. Replace the API key in `index.html` with your own key.
-3. Open `index.html` in any web browser.
-
 ## ⚠️ Important: Use Your Own API Key!
 
 Please replace the existing API key in `index.html` with your own OpenWeather API key. **I will deactivate the current API key soon**, so the app will stop fetching weather data unless you insert your own key.
