@@ -29,6 +29,6 @@ A simple and responsive live weather app that shows current weather, a 5-day for
 
 Please replace the existing API key in `index.html` with your own OpenWeather API key. **I will deactivate the current API key soon**, so the app will stop fetching weather data unless you insert your own key.
 
-1. Create a free account and get an API key at [OpenWeatherMap](https://openweathermap.org/api?utm_source=gemini).
+1. Create a free account and get an API key at [OpenWeatherMap]
 2. Open `index.html` in your code editor.
 3. Locate the `fetch` URLs and replace the current key inside `appid=...` with your own API key.
