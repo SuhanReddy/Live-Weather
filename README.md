@@ -1,5 +1,4 @@
-```markdown
-#Live Weather Forecast
+# Live Weather Forecast
 
 A simple and responsive live weather app that shows current weather, a 5-day forecast, air quality (AQI), and today's temperatures.
 
@@ -16,16 +15,10 @@ A simple and responsive live weather app that shows current weather, a 5-day for
 - Bootstrap & jQuery
 - OpenWeatherMap API
 
-## Setup & How to Run
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/SuhanReddy/Live-Weather.git](https://github.com/SuhanReddy/Live-Weather.git)
-
-
 ## ⚠️ Important: Use Your Own API Key!
 
-Please replace the existing API key in `index.html` with your own OpenWeather API key. **I will deactivate the current API key soon**, so the app will stop fetching weather data unless you insert your own key.
-
-1. Create a free account and get an API key at [OpenWeatherMap]
+1. Create a free account and get an API key at [OpenWeatherMap](https://openweathermap.org/api).
 2. Open `index.html` in your code editor.
 3. Locate the `fetch` URLs and replace the current key inside `appid=...` with your own API key.
+
+> **Note:** Change the API keys at lines 166, 184, 231, and 272.
